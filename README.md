@@ -33,3 +33,5 @@ Example:
 ```bash
 sudo python3 mac_changer.py 00:11:22:33:44:55 eth0
 ```
+
+**Note:** This tool is strictly for educational and authorized testing purposes; any unauthorized use is illegal and the user's sole responsibility.
